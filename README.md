@@ -2,6 +2,10 @@
 
 deploy url - (Food App Netlify)[https://tailwind-food-app.netlify.app/]
 
+## Preview
+![Document](https://user-images.githubusercontent.com/66387727/120713762-437a9400-c4ba-11eb-89b7-1406b47e9a4f.png)
+
+
 ## Stacks
 
 - HTML
